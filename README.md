@@ -11,6 +11,14 @@
   - Data Smoothing Techniques: Exponential Smoothing, Lowess Smoothing, Convolution Smoothing
 
 ## Credit scoring modelling
+Objective: Develop a credit scorecard
+- [Code](https://github.com/KathyrnC/Finance-Projects/blob/main/Credit%20Scoring.ipynb)
+  - Exploratory Data Analysis and Treating Missing Data
+  - Calculation of Weight of Evidence (WOE), Information Value (IV), and Monotonic values on all features to determine whether to incldue or reject feature in developing scorecard model
+  - Manual Scorecard Generation (WOE matrix transformation and Logistic Regression)
+  - Model Performance Evaluation
+- Dataset: [loan_train.CSV](https://github.com/KathyrnC/Finance-Projects/blob/main/loan_train.csv)
+
 
 ## Monte carlo simulation on structured product returns
 Problem: Probability computation of early redemption of [structured product](https://drive.google.com/file/d/1kQvQsjlCOoIERHARx8cNbGTJACO9IJRN/view), given that the qualification for early redemption on each early redemption date below is that each equity in the product mush be at least 85% of it's value on the validation date:
