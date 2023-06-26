@@ -22,7 +22,7 @@ Objective: Develop a credit scorecard
 
 ## Monte carlo simulation on structured product returns
 Problem: Probability computation of early redemption of [structured product](https://drive.google.com/file/d/1kQvQsjlCOoIERHARx8cNbGTJACO9IJRN/view), given that the qualification for early redemption on each early redemption date below is that each equity in the product mush be at least 85% of it's value on the validation date:
-  - 1. 20thovember 2019
+  - 1. 20th November 2019
   - 2. 20th May 2020
   - 3. 20th November 2020
   - 4. 20th May 2021
